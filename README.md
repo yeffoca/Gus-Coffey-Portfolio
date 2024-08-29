@@ -6,7 +6,7 @@ I am a physics and astronomy researcher and student with a passion for data. I h
 - **Skills:** PostgreSQL; DataGrip; Tableau; JOIN queries; sub-queries; aggregate functions
 
 ### [Salary-Predictions](https://github.com/yeffoca/Salary-Predictions)
-- **Description:** This project utilizes Scikit-learn, TensorFlow, and Keras to predict the salary ranges of data analyst positions listed on Glassdoor
+- **Description:** This project utilizes Scikit-learn, TensorFlow, and Keras to predict the salary ranges of data analyst positions listed on Glassdoor.com.
 - **Skills:** Python; TensorFlow; Keras; Scikit-learn; Seaborn; EDA; data reduction; data visualization
 
 ## Research Projects
