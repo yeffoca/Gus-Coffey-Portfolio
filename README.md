@@ -5,6 +5,10 @@ I am a physics and astronomy researcher and student with a passion for data. I h
 - **Description:** This project utilizes a PostgreSQL database to analyze the performance of three different bike stores. This analysis is then visualized using Tableau.
 - **Skills:** PostgreSQL; DataGrip; Tableau; JOIN queries; sub-queries; aggregate functions
 
+### [Salary-Predictions](https://github.com/yeffoca/Salary-Predictions)
+- **Description:** This project utilizes Scikit-learn, TensorFlow, and Keras to predict the salary ranges of data analyst positions listed on Glassdoor
+- **Skills:** Python; TensorFlow; Keras; Scikit-learn; Seaborn; EDA; data reduction; data visualization
+
 ## Research Projects
 ### [Investigating the Correlation Between Galaxy Age and Morphology via JWST Observations](https://github.com/mekhi-woods/HSGCURIJWSTMorphology-repo)
 - **Description:** This projects was funded by the NASA Space Grant Consortium. It is an ongoing project with the goal of using JWST NIRCAM images to measure galaxy morphology parameters such as asymmetry and Petrosian Radius. These parameters can then give us insight into galaxy evolution at high redshifts. Preliminary findings were presented as an iPoster at the 244th American Astronomical Society conference.
